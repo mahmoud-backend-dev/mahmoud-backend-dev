@@ -8,7 +8,7 @@
 - :school: I am a `Computer Science Fresh Graduate` from Faculty of Science, Computer Science major at Benha University
 - 🌱 I’m currently studing `Backend (Node.js)`
 - 📫 How to reach me **mahmoudhamdi157@gmail.com**
-- :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ajpsUjBsnm3ERCGX5U107oeHmbGlaqdt/view?usp=sharing).
+- :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1ajpsUjBsnm3ERCGX5U107oeHmbGlaqdt/view?usp=sharing](https://drive.google.com/drive/u/3/folders/1scbiLQeBknFUnmsR3Q_affP1yOuEV9hw)).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
