@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hamdi</h1>
-<h3 align="center">Back End Developer | Node.js</h3>
+<h3 align="center">Back-End Developer</h3>
 
 <p align="center">
 <br>
