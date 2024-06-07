@@ -5,7 +5,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Computer Science Fresh Graduate` from Faculty of Science, Computer Science major at Benha University
+- :school: I am a `Computer Science Graduate` from Faculty of Science, Computer Science major at Benha University
 - 🌱 I’m currently studing `Web Developer`
 - 📫 How to reach me **mahmoud.backend.dev@gmail.com**
 - :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/16_waHFL0V4_qHM2lFGAh1vYrJOpBgKIk/view?usp=drive_link).
