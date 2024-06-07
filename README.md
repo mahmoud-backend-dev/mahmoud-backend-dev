@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hamdi</h1>
-<h3 align="center">Back-End Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
 <br>
@@ -8,7 +8,7 @@
 - :school: I am a `Computer Science Fresh Graduate` from Faculty of Science, Computer Science major at Benha University
 - 🌱 I’m currently studing `Backend (Node.js)`
 - 📫 How to reach me **mahmoud.backend.dev@gmail.com**
-- :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1n-Eu7VOdRF42gkXnFIhBK8EG2AGc6cWJ/view?usp=sharing).
+- :thinking: I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/16_waHFL0V4_qHM2lFGAh1vYrJOpBgKIk/view?usp=drive_link).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
